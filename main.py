@@ -9,7 +9,7 @@ import lxml
 
 imagenum = 0
 chapter_explain = '!under construction! Chapters You Wanna Scrape, Example: -C 12 [Gets Chapter 12], -C 1~4 [Gets Chapter 1, 2, 3, 4]'
-name = "set it"
+name = "" #folder name here
 parsed_url = ''
 
 def check_url(in_url):
